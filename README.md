@@ -17,8 +17,6 @@ to 'steal' other players score items if they roll a greater sum for that item.
 
 HeeHee ... snicker-sniker ...
 
-[![dice](./dice.jpg)](https://deploy-dice.deno.dev/)    
-   
 Usage:
 ```
 Open one or more instances of the app. 
