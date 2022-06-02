@@ -33,9 +33,7 @@ The blue highlighted numbers indicate possible scores that are available to sele
 You may steal any other players score-item if a blue score is shown.
 Have fun!
 ```
-
-## Run Online
-https://deploy-dice.deno.dev/     
+   
 
 ## Developed using my own custom framework (Surface)
 ## Interesting features
@@ -61,4 +59,3 @@ https://deploy-dice.deno.dev/
     
 ### ZERO External Dependencies PURE Vanilla Typescript  
 
-[![comms](./WS-BC-comms.png)]  
